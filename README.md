@@ -15,7 +15,7 @@
   * Updating a single dog. PUT https://localhost:7092/api/Dog/{id} with the ID of the dog in the url, and the dog json object in the body.
   * Deleting a single dog. DELETE https://localhost:7092/api/Dog/{id} with the ID of the dog in the url
 ### Owner
-  * Creating a new owner. POST https://localhost:7092/api/Owner with a Dog object in the body.
+  * Creating a new owner. POST https://localhost:7092/api/Owner with a Owner object in the body.
   * Retrieving all owners. GET https://localhost:7092/api/Owner
   * Retrieving a single owner. GET https://localhost:7092/api/Owner/{id} with the ID of the owner in the url
   * Updating a single owner. PUT https://localhost:7092/api/Owner/{id} with the ID of the owner in the url, and the owner json object in the body.
