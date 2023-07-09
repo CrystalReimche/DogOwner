@@ -1,5 +1,6 @@
 # DogOwner Api
 * A simple ASP.NET Web API service for Dogs and their Owners.
+* Filtering by OnwerId and sorting is available for `GetAllDogs`
 * Swashbuckle is used for display purposes, endpoint testing, sample json data, and simple documentation.
 * There are five simple endpoints used for Creating, Reading, Reading All, Updating, and Deleting the Dogs and/or Owners.
 * The project has a "Seed.cs" class to populate with dummy data.
